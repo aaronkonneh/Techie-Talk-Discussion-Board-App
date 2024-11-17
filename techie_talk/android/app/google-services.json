@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760414861460",
+    "project_id": "techie-talk",
+    "storage_bucket": "techie-talk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760414861460:android:61b5fcf0a860d126f11c81",
+        "android_client_info": {
+          "package_name": "com.example.techie_talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17tNJ4eRNM-YuM-i4QjO0tSO78U6vc9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
